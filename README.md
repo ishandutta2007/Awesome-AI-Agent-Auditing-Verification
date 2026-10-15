@@ -66,7 +66,7 @@ The sector remains **highly fragmented** across specialized pure-play LLM evalua
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars_Count (Descending). Stars_Badges link directly to each project's stargazers.*
+*Sorted by GitHub_Stars_Count (Descending). Stars_Badges link directly to each project's stargazers.*
 
 1. **[Langfuse](https://github.com/langfuse/langfuse)** [![Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
    Open-source LLM engineering platform for tracing, evaluation, prompt management, and analytics — widely used to observe and score agent runs in production or offline.
